@@ -87,3 +87,4 @@ __vsc_prompt_cmd_original
 mkdir images
 ls --color=auto
 cp background.jpg images
+cd images/
