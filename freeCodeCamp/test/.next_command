@@ -178,3 +178,4 @@ rmdir fonts/
 ls --color=auto
 find fonts
 rm --help
+rm -r fonts
