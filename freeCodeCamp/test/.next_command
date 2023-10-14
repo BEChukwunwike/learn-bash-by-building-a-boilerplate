@@ -50,3 +50,6 @@ ls --color=auto
 more index.js
 cd ..
 cd ..
+cd ..
+cd node_modules/
+cd ../..
