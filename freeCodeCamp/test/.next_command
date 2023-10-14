@@ -179,3 +179,4 @@ ls --color=auto
 find fonts
 rm --help
 rm -r fonts
+ls --color=auto
