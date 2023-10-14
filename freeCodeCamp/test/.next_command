@@ -161,3 +161,4 @@ rmdir client/assets/icon
 mv CodeAlly.svg client/assets/icons/
 find
 mv CodeRoad.svg client/assets/icons/
+mv freeCodeCamp.svg client/assets/icons/
